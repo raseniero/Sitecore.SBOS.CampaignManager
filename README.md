@@ -34,7 +34,7 @@ Below are the steps to get up and running with the module.
 
 ## Demonstration 
 
-If you want to follow a step-by-step demo please see [Demo page](). This is assume that you have Sitecore Habitat running.
+If you want to follow a step-by-step demo please see [Demo page](https://github.com/raseniero/Sitecore.SBOS.CampaignManager/blob/master/DEMO.md). This is assume that you have Sitecore Habitat running.
 
 ## Supports
 + For support please email the author or [create an issue]().
