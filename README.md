@@ -36,6 +36,10 @@ Below are the steps to get up and running with the module.
 
 If you want to follow a step-by-step demo please see [Demo page](https://github.com/raseniero/Sitecore.SBOS.CampaignManager/blob/master/DEMO.md). This is assume that you have Sitecore Habitat running.
 
+## Package Installation
+
+Please follow the steps outline on the [Package Installation page](https://github.com/raseniero/Sitecore.SBOS.CampaignManager/blob/master/PACKAGE-README(v0.2).md).
+
 ## Supports
 + For support please email the author or [create an issue]().
 + Tested on Sitecore CMS 8.2 Update 1 or later
